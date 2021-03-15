@@ -1,0 +1,4 @@
+﻿activity_of_pattern true
+name_of_pattern бизнес регион выбрать
+action_of_pattern выбрать бизнес регион
+path_to_pattern \Библиотека\заполнение\выбрать бизнес-регион.xml

@@ -1,0 +1,4 @@
+﻿activity_of_pattern true
+name_of_pattern соглашение с поставщиком выбрать
+action_of_pattern выбрать соглашение с поставщиком
+path_to_pattern 

@@ -1,0 +1,4 @@
+﻿activity_of_pattern true
+name_of_pattern орагниация выбрать
+action_of_pattern выбрать орагниацию
+path_to_pattern \Библиотека\заполнение\выбрать организацию.xml
