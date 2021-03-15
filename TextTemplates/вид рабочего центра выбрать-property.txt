@@ -1,0 +1,4 @@
+﻿activity_of_pattern true
+name_of_pattern вид рабочего центра выбрать
+action_of_pattern выбрать вид рабочего центра
+path_to_pattern 

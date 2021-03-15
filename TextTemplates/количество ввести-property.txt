@@ -1,0 +1,4 @@
+﻿activity_of_pattern true
+name_of_pattern количество ввести
+action_of_pattern ввести количество
+path_to_pattern \Библиотека\заполнение\ввести количество.xml

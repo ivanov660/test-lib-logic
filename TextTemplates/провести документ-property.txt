@@ -1,0 +1,4 @@
+﻿activity_of_pattern true
+name_of_pattern провести документ
+action_of_pattern провести документ
+path_to_pattern \Библиотека\документы\провести документ.xml

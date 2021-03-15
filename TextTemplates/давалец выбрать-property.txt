@@ -1,0 +1,4 @@
+﻿activity_of_pattern true
+name_of_pattern давалец выбрать
+action_of_pattern 
+path_to_pattern \Библиотека\заполнение\ДавалецВыбрать.xml
