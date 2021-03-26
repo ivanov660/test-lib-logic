@@ -1,4 +1,4 @@
 ﻿activity_of_pattern true
 name_of_pattern запомнить номер
 action_of_pattern запомнить номер
-path_to_pattern \Библиотека\документы\получить номер документа.xml
+path_to_pattern \ScriptLibrary\документы\получить номер документа.xml

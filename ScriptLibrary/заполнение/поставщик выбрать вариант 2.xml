@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Скрипт Версия="3.3" Наименование="выбрать поставщика вариант 2" Автор="Администратор" АдресИнтернет="" ИдентификаторТеста="выбрать_поставщика_вариант_2" Severity="Значительная" DefaultAPI="1cClientApp" DefaultBrowser="Chrome" DefaultPort="1539">
-	<SupportedVersions Count="0"/>
 	<Logic>
 		<Action>выбрать поставщика вариант 2</Action>
 		<Description>выбрать поставщика вариант 2</Description>
@@ -50,12 +49,8 @@
 				<API/>
 				<ИмяКлассаОбъекта/>
 				<ИдентификаторОбъекта/>
-				<Key/>
-				<Type/>
-				<FileName/>
 				<Attribute/>
 				<ОдинУровеньВниз>false</ОдинУровеньВниз>
-				<TurnToCommentInBlock>true</TurnToCommentInBlock>
 				<ClickX/>
 				<ClickY/>
 				<xPath/>
@@ -64,6 +59,7 @@
 				<ЭтоБлок>false</ЭтоБлок>
 				<Library/>
 				<ПутьБлокШагов/>
+				<Goal/>
 				<ИмяПараметра/>
 				<ИмяПараметра2/>
 				<УсловиеСравнения/>
@@ -102,12 +98,8 @@
 				<API/>
 				<ИмяКлассаОбъекта/>
 				<ИдентификаторОбъекта/>
-				<Key/>
-				<Type/>
-				<FileName/>
 				<Attribute/>
 				<ОдинУровеньВниз>false</ОдинУровеньВниз>
-				<TurnToCommentInBlock>false</TurnToCommentInBlock>
 				<ClickX/>
 				<ClickY/>
 				<xPath/>
@@ -116,6 +108,7 @@
 				<ЭтоБлок>false</ЭтоБлок>
 				<Library/>
 				<ПутьБлокШагов/>
+				<Goal/>
 				<ИмяПараметра/>
 				<ИмяПараметра2/>
 				<УсловиеСравнения/>
@@ -154,12 +147,8 @@
 				<API/>
 				<ИмяКлассаОбъекта/>
 				<ИдентификаторОбъекта/>
-				<Key/>
-				<Type/>
-				<FileName/>
 				<Attribute/>
 				<ОдинУровеньВниз>false</ОдинУровеньВниз>
-				<TurnToCommentInBlock>false</TurnToCommentInBlock>
 				<ClickX/>
 				<ClickY/>
 				<xPath/>
@@ -168,6 +157,7 @@
 				<ЭтоБлок>false</ЭтоБлок>
 				<Library/>
 				<ПутьБлокШагов/>
+				<Goal/>
 				<ИмяПараметра/>
 				<ИмяПараметра2/>
 				<УсловиеСравнения/>
@@ -206,12 +196,8 @@
 				<API/>
 				<ИмяКлассаОбъекта/>
 				<ИдентификаторОбъекта/>
-				<Key/>
-				<Type/>
-				<FileName/>
 				<Attribute/>
 				<ОдинУровеньВниз>false</ОдинУровеньВниз>
-				<TurnToCommentInBlock>false</TurnToCommentInBlock>
 				<ClickX/>
 				<ClickY/>
 				<xPath/>
@@ -220,6 +206,7 @@
 				<ЭтоБлок>false</ЭтоБлок>
 				<Library/>
 				<ПутьБлокШагов/>
+				<Goal/>
 				<ИмяПараметра/>
 				<ИмяПараметра2/>
 				<УсловиеСравнения/>
@@ -258,12 +245,8 @@
 				<API/>
 				<ИмяКлассаОбъекта/>
 				<ИдентификаторОбъекта/>
-				<Key/>
-				<Type/>
-				<FileName/>
 				<Attribute/>
 				<ОдинУровеньВниз>false</ОдинУровеньВниз>
-				<TurnToCommentInBlock>false</TurnToCommentInBlock>
 				<ClickX/>
 				<ClickY/>
 				<xPath/>
@@ -272,6 +255,7 @@
 				<ЭтоБлок>false</ЭтоБлок>
 				<Library/>
 				<ПутьБлокШагов/>
+				<Goal/>
 				<ИмяПараметра/>
 				<ИмяПараметра2/>
 				<УсловиеСравнения/>
@@ -310,12 +294,8 @@
 				<API/>
 				<ИмяКлассаОбъекта/>
 				<ИдентификаторОбъекта/>
-				<Key/>
-				<Type/>
-				<FileName/>
 				<Attribute/>
 				<ОдинУровеньВниз>false</ОдинУровеньВниз>
-				<TurnToCommentInBlock>false</TurnToCommentInBlock>
 				<ClickX/>
 				<ClickY/>
 				<xPath/>
@@ -324,6 +304,7 @@
 				<ЭтоБлок>false</ЭтоБлок>
 				<Library/>
 				<ПутьБлокШагов/>
+				<Goal/>
 				<ИмяПараметра/>
 				<ИмяПараметра2/>
 				<УсловиеСравнения/>
@@ -362,12 +343,8 @@
 				<API/>
 				<ИмяКлассаОбъекта/>
 				<ИдентификаторОбъекта/>
-				<Key/>
-				<Type/>
-				<FileName/>
 				<Attribute/>
 				<ОдинУровеньВниз>false</ОдинУровеньВниз>
-				<TurnToCommentInBlock>false</TurnToCommentInBlock>
 				<ClickX/>
 				<ClickY/>
 				<xPath/>
@@ -376,6 +353,7 @@
 				<ЭтоБлок>false</ЭтоБлок>
 				<Library/>
 				<ПутьБлокШагов/>
+				<Goal/>
 				<ИмяПараметра/>
 				<ИмяПараметра2/>
 				<УсловиеСравнения/>
@@ -414,12 +392,8 @@
 				<API/>
 				<ИмяКлассаОбъекта/>
 				<ИдентификаторОбъекта/>
-				<Key/>
-				<Type/>
-				<FileName/>
 				<Attribute/>
 				<ОдинУровеньВниз>false</ОдинУровеньВниз>
-				<TurnToCommentInBlock>false</TurnToCommentInBlock>
 				<ClickX/>
 				<ClickY/>
 				<xPath/>
@@ -428,6 +402,7 @@
 				<ЭтоБлок>false</ЭтоБлок>
 				<Library/>
 				<ПутьБлокШагов/>
+				<Goal/>
 				<ИмяПараметра/>
 				<ИмяПараметра2/>
 				<УсловиеСравнения/>
@@ -466,12 +441,8 @@
 				<API/>
 				<ИмяКлассаОбъекта/>
 				<ИдентификаторОбъекта/>
-				<Key/>
-				<Type/>
-				<FileName/>
 				<Attribute/>
 				<ОдинУровеньВниз>false</ОдинУровеньВниз>
-				<TurnToCommentInBlock>false</TurnToCommentInBlock>
 				<ClickX/>
 				<ClickY/>
 				<xPath/>
@@ -480,6 +451,7 @@
 				<ЭтоБлок>false</ЭтоБлок>
 				<Library/>
 				<ПутьБлокШагов/>
+				<Goal/>
 				<ИмяПараметра/>
 				<ИмяПараметра2/>
 				<УсловиеСравнения/>
@@ -518,12 +490,8 @@
 				<API/>
 				<ИмяКлассаОбъекта/>
 				<ИдентификаторОбъекта/>
-				<Key/>
-				<Type/>
-				<FileName/>
 				<Attribute/>
 				<ОдинУровеньВниз>false</ОдинУровеньВниз>
-				<TurnToCommentInBlock>false</TurnToCommentInBlock>
 				<ClickX/>
 				<ClickY/>
 				<xPath/>
@@ -532,6 +500,7 @@
 				<ЭтоБлок>false</ЭтоБлок>
 				<Library/>
 				<ПутьБлокШагов/>
+				<Goal/>
 				<ИмяПараметра/>
 				<ИмяПараметра2/>
 				<УсловиеСравнения/>
@@ -570,12 +539,8 @@
 				<API/>
 				<ИмяКлассаОбъекта/>
 				<ИдентификаторОбъекта/>
-				<Key/>
-				<Type/>
-				<FileName/>
 				<Attribute/>
 				<ОдинУровеньВниз>false</ОдинУровеньВниз>
-				<TurnToCommentInBlock>true</TurnToCommentInBlock>
 				<ClickX/>
 				<ClickY/>
 				<xPath/>
@@ -584,6 +549,7 @@
 				<ЭтоБлок>false</ЭтоБлок>
 				<Library/>
 				<ПутьБлокШагов/>
+				<Goal/>
 				<ИмяПараметра/>
 				<ИмяПараметра2/>
 				<УсловиеСравнения/>

@@ -1,4 +1,4 @@
 ﻿activity_of_pattern true
 name_of_pattern активный менеджер выбрать
 action_of_pattern выбрать активного менеджера
-path_to_pattern \Библиотека\заполнение\выбрать активного менеджера.xml
+path_to_pattern \заполнение\активный менеджер выбрать.xml
