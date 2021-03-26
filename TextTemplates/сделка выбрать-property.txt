@@ -1,0 +1,4 @@
+﻿activity_of_pattern true
+name_of_pattern сделка выбрать
+action_of_pattern выбрать сделку
+path_to_pattern \заполнение\сделка выбрать.xml

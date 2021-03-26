@@ -1,4 +1,4 @@
 ﻿activity_of_pattern true
 name_of_pattern контрагент выбрать
-action_of_pattern 
+action_of_pattern выбрать контрагента
 path_to_pattern 

@@ -1,4 +1,4 @@
 ﻿activity_of_pattern true
 name_of_pattern склад выбрать
 action_of_pattern выбрать склад
-path_to_pattern \Библиотека\заполнение\выбрать склад.xml
+path_to_pattern \заполнение\склад выбрать.xml
